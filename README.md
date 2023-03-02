@@ -33,4 +33,5 @@ python3 -m pipx ensurepath
 ```
 
 once you have pipx installed and ran the ensure-path command on their instructions run this command:
+
 `pipx install  {your-download-path}/aws_profile-0.0.1.tar.gz`
